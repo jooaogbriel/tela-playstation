@@ -5,7 +5,15 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'control': "url('/imgs/dualsenseedge.jpeg')",
+        spacing: {
+          '128': '30rem',
+          '100': '38%'
+        }
+      }
+    },
   },
   plugins: [],
 }

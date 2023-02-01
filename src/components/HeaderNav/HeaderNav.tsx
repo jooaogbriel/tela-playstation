@@ -4,8 +4,8 @@ import pesquisar from '../../imgs/pesquisar.svg';
 
 export const HeaderNav = () => {
     return (
-        <nav className='flex justify-center items-center w-full'>
-            <img src={logo} alt="" className='w-10 p-4.5 m-4'/>
+        <nav className='flex justify-center items-center w-ful h-16'>
+            <img src={logo} alt="" className='w-9 p-4.5 m-4'/>
             <ul className='flex justify-start w-full'>
                 <li className='flex justify-center flex-row p-1.5'>
                     <a className=' mr-1' href="#">Jogos</a> 
@@ -37,7 +37,7 @@ export const HeaderNav = () => {
                     <img src={keyboard} alt="" className='w-2 h-6' />
                 </li>
             </ul>
-            <button className='bg-sky-700 text-white rounded-xl w-36 font-semibold '>Iniciar sessão</button>
+            <button className='bg-sky-700 text-white rounded-xl w-36  '>Iniciar sessão</button>
             <img src={pesquisar} alt="" className='w-6 m-6' />
 
         </nav>
