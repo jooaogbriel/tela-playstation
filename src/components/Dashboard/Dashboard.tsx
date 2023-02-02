@@ -7,7 +7,7 @@ export const Dashboard = () => {
                  <div className='w-full bg-gradient-to-r from-black to-blue-900 h-[33rem] flex  justify-end ' >
                 <img className='h-full mr-48' src={control} alt="" />
                 </div> 
-                <div className=' mb-14 text-white absolute flex flex-col items-start content-end w-[36%] ml-14 '>
+                <div className=' mb-14 text-white absolute flex flex-col items-start content-end w-[37%] ml-14 '>
                     <h1 className='font-semibold  text-5xl flex items-start'>DUALSENSE EDGE<p className='mt-1 text-xs'>™</p> </h1>
                     <h2 className='text-4xl font-normal'>WIRELESS CONTROLLER</h2>
                     <p className='mt-10'>Jogue do seu jeito com seu novo controle de PS5 de alto desempenho, já disponível.</p>

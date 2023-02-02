@@ -1,3 +1,4 @@
+import { Cards } from "./components/Cards"
 import { Dashboard } from "./components/Dashboard/Dashboard"
 import { HeaderNav } from "./components/HeaderNav/HeaderNav"
 import { Logo } from "./components/Logo/Logo"
@@ -10,6 +11,7 @@ function App() {
         <Logo />
         <HeaderNav />
         <Dashboard />
+        <Cards />
     </div>
   )
 }
