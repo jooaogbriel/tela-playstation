@@ -1,8 +1,10 @@
 import { Cards } from "./components/Cards"
-import { Dashboard } from "./components/Dashboard/Dashboard"
+import { PS5 } from './components/PS5/PS5'
 import { HeaderNav } from "./components/HeaderNav/HeaderNav"
 import { Logo } from "./components/Logo/Logo"
 import './index.css'
+import { Show } from "./components/Show/Show"
+import { Dashboard } from "./components/Dashboard/Control/Dashboard"
 
 function App() {
 
@@ -10,7 +12,9 @@ function App() {
     <div>
         <Logo />
         <HeaderNav />
-        <Dashboard />
+         {/* <Dashboard />  */}
+        {/* <PS5 /> */}
+         <Show /> 
         <Cards />
     </div>
   )

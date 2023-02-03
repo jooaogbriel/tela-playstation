@@ -1,4 +1,4 @@
-import control from '../../imgs/pc.png'
+import control from '../../../imgs/pc.png'
 export const Dashboard = () => {
     
     return (

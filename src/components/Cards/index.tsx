@@ -7,7 +7,7 @@ import forspoken from '../../imgs/forspoken.png'
 
 export const Cards = () => {
     return (
-        <div className='flex items-center justify-around mt-10 ml-10 mr-10 mb-5'>
+        <div className='flex items-center justify-around mt-9 ml-10 mr-10 mb-5'>
             <img className='w-52 h-30 rounded-xl opacity-70 hover:opacity-100 hover:-translate-y-2 duration-200 hover:shadow-[0_20px_20px_-15px_rgba(0,0,0,0.7)]' src={control} alt="" ></img>
             <img className='w-52 h-30 rounded-xl opacity-70 hover:opacity-100 hover:-translate-y-2 duration-200 hover:shadow-[0_20px_20px_-15px_rgba(0,0,0,0.7)]' src={play} alt="" ></img>
             <img className='w-52 h-30 rounded-xl opacity-70 hover:opacity-100 hover:-translate-y-2 duration-200 hover:shadow-[0_20px_20px_-15px_rgba(0,0,0,0.7)]' src={show} alt="" ></img>
