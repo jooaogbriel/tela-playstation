@@ -26,6 +26,13 @@ module.exports = {
       '5xl': '2.200rem',
     }
     },
+    colors: {
+        'regal-blue': '#261634',
+        'white': '#fff',
+        'black': '#000000',
+        'blue': '#0070CC',
+        'bg': '#191634'
+      },
   },
   plugins: [],
 }

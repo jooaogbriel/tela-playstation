@@ -1,11 +1,11 @@
-import show from '../../imgs/Screenshot .png'
+import fors from '../../imgs/fors.jpeg'
 
-export const Show = () => {
+export const Forspoken = () => {
     return (
         <main>
             <div className='flex flex-col h-4/6 justify-end bg-gradient-to-r bg-regal-blue'>
                  <div className='w-full h-[33rem] ' >
-                <img className='h-full mr-48 flex w-full ' src={show} alt="" />
+                <img className='h-full mr-48 flex w-full ' src={fors} alt="" />
                 </div> 
                 <div className=' mb-14 text-white absolute flex flex-col items-start content-end w-[37%] ml-32 '>
                     <h2 className='text-4xl font-thin'>Controle o jogo. Domine The Show™.</h2>
