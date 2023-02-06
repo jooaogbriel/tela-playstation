@@ -15,12 +15,12 @@ function App() {
     <div>
         <Logo />
         <HeaderNav />
-         {/* <Dashboard />  */}
+        {/* <Dashboard />  */}
         {/* <PS5 /> */}
         {/* <Show />  */}
-        <DeadSpace />
+        {/* <DeadSpace /> */}
         {/* <VR2 /> */}
-        {/* <Forspoken /> */}
+        <Forspoken />
         <Cards />
     </div>
   )

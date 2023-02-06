@@ -37,7 +37,7 @@ export const HeaderNav = () => {
                     <img src={keyboard} alt="" className='w-2 h-6 cursor-pointer mr-6' />
                 </li>
             </ul>
-            <button className='bg-blue text-white rounded-xl w-36 hover:bg-blue-900  '>Iniciar sessão</button>
+            <button className='bg-blue text-white rounded-xl w-36 hover:bg-dash  '>Iniciar sessão</button>
             <img src={pesquisar} alt="" className='w-6 m-6 cursor-pointer ' />
 
         </nav>

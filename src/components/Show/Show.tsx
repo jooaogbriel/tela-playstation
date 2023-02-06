@@ -8,8 +8,8 @@ export const Show = () => {
                 <img className='h-full mr-48 flex w-full ' src={show} alt="" />
                 </div> 
                 <div className=' mb-14 text-white absolute flex flex-col items-start content-end w-[37%] ml-32 '>
-                    <h2 className='text-4xl font-thin'>Controle o jogo. Domine The Show™.</h2>
-                    <p className=' text-sm '>MBL® The Show™ 23 deixa você mais perto do que nunca de realizar seus sonhos no campo de beisebol. Em breve no PS4 e PS5.</p>
+                    <h2 className='text-4xl font-thin leading-10'>Controle o jogo. Domine The Show™.</h2>
+                    <p className=' text-sm mt-4 font-thin '>MBL® The Show™ 23 deixa você mais perto do que nunca de realizar seus sonhos no campo de beisebol. Em breve no PS4 e PS5.</p>
                     <button className='text-black mt-6  bg-white rounded-full w-32 h-8 font-semibold'>Saiba mais</button>
                 </div>
             </div>

@@ -31,7 +31,8 @@ module.exports = {
         'white': '#fff',
         'black': '#000000',
         'blue': '#0070CC',
-        'bg': '#191634'
+        'bg': '#191634',
+        'dash' : '#093ebd'
       },
   },
   plugins: [],

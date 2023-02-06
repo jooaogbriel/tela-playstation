@@ -2,8 +2,8 @@ import control from '../../imgs/control.png'
 import play from '../../imgs/play.png'
 import show from '../../imgs/show.png'
 import deadspace from '../../imgs/deadspace.png'
-import vr2 from '../../imgs/vr2.png'
-import forspoken from '../../imgs/forspoken.png'
+import vr2 from '../../imgs/logo us.webp'
+import forspoken from '../../imgs/logohog.avif'
 
 export const Cards = () => {
     return (
